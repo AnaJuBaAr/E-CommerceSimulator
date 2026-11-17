@@ -1,0 +1,65 @@
+
+# Compilação Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Diretórios de compilação
+bin/
+build/
+out/
+target/
+
+# IDEs
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+*.iml
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+
+# Eclipse
+.metadata/
+
+# IntelliJ
+.idea_modules/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+*~
+
+# Variáveis de ambiente e credenciais
+.env
+.env.*
+!.env.example
+
+# Arquivos de backup
+*.bak
+*.old
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+
+# Documentos da faculdade
+docs/
